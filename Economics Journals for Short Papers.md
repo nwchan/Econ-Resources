@@ -143,3 +143,6 @@ Short Papers
 "Peer-reviewed short communications of findings on topical issues or published articles of between 2000 and 4000 words."
 [URL: https://www.journals.elsevier.com/social-science-and-medicine ]
 
+## 23 Journal of Environmental Economics and Management
+"Short papers and notes will be subjected to a rigorous but expedited review process, and in most cases, revision requests will be minimal. For consideration, manuscripts should be less than 3,000 words, although modestly longer papers will be considered."
+[URL: https://www.elsevier.com/journals/journal-of-environmental-economics-and-management/0095-0696/guide-for-authors]
